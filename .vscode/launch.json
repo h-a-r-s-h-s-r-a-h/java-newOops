@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch GameRunner",
+            "request": "launch",
+            "mainClass": "againgame.GameRunner",
+            "projectName": "newoops_3dc11a7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnimalRunner",
+            "request": "launch",
+            "mainClass": "animal.AnimalRunner",
+            "projectName": "newoops_efabde09"
+        },
+        {
+            "type": "java",
+            "name": "Launch GameRunner",
+            "request": "launch",
+            "mainClass": "againgame.GameRunner",
+            "projectName": "newoops_efabde09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Runner",
+            "request": "launch",
+            "mainClass": "againpractise.Runner",
+            "projectName": "newoops_efabde09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Runner(1)",
+            "request": "launch",
+            "mainClass": "employee.Runner",
+            "projectName": "newoops_efabde09"
+        },
+        {
+            "type": "java",
+            "name": "Launch GameRunner",
+            "request": "launch",
+            "mainClass": "game.GameRunner",
+            "projectName": "newoops_efabde09"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentRunner",
+            "request": "launch",
+            "mainClass": "overriding.StudentRunner",
+            "projectName": "newoops_efabde09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Project",
+            "request": "launch",
+            "mainClass": "project.Project",
+            "projectName": "newoops_efabde09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reciperunner",
+            "request": "launch",
+            "mainClass": "recipe.Reciperunner",
+            "projectName": "newoops_efabde09"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentRunner(1)",
+            "request": "launch",
+            "mainClass": "student.StudentRunner",
+            "projectName": "newoops_efabde09"
+        }
+    ]
+}
